@@ -1,0 +1,17 @@
+body{
+    background-color: #1a1be2;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+main{
+    max-width: 800px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin: 0 auto 0 auto;
+}
